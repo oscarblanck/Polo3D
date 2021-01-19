@@ -1,0 +1,24 @@
+.LOG CEUM/3 Rios:
+
+• Agenda: ..., Solicitud de Nicolas Vega
+- Objetivo: Maqueta virtual 3D
+- Estrategia: Mostrar elementos
+Centro Admin.: Clases aire libre, Recolección agua, Vivero, Farmacia, 
+Cuenca: 	Ciudad, Pozo, volcanes,
+
+- Seguimiento: ...
+ 
+Recurso:
+• Slides: Modelo 3D
+• Documento: 
+• Mapa: 
+• Plano: 
+• Video: 
+• 3D: Sketchup
+
+- Apoyo:
+- DPU/Coord : Emilio Vargas, Nicolas Vega
+- DPU/Gis-3D: O. Blanck 
+- Fechas:
+12:38 15/07/2019 Visita de campo:
+
