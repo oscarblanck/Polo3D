@@ -1,41 +1,16 @@
-.LOG ayuda:  Oscar Blanck, Guatemala 2017
 
-• Navegador WEB: sistema de presentación (navegador actualizado;chrome, safari, firefox)
+--Navegador WEB: sistema de presentaciÃ³n (navegador actualizado;chrome, safari, firefox)
    Tecla F5 = Reiniciar
    Tecla F11= modo kiosco (amplia ventana.
-   Tecla <- = (delete) regresa a vista anterior.
- 
-Contenidos:
-• Slides: autoplay, formato jpG 800x600, logo, proyecto...
-puede reemplazar imagenes: nombradas; graf01.jpg a graf07.jpg
+   Tecla <- = (delete) regresa a vista anterior
 
-• Menu 3D: varios modelos 3D (navegador actualizado;chrome, safari, firefox)
-layers, custom plane, requieren WEBGL , Elevación digital del modelo 1:1
-*fuente datos de elevación: "ASTER GDEM is a product of METI and NASA."
-
+--Menu 3D: varios modelos 3D (navegador actualizado;chrome, safari, firefox)
+layers, custom plane, requieren WEBGL , ElevaciÃ³n digital del modelo 1:1
+*fuente datos de elevaciÃ³n: "ASTER GDEM is a product of METI and NASA."
    Mouse rueda +/- = zoom.
-   Mouse click     = identificación de datos
+   Mouse click     = identificaciÃ³n de datos
    Mouse click der.= paneo
    Mouse click izq.= orbitar
    Tecla ALT S     = guardar imagen
-   Tecla R     = auto rotación
-   Tecla Shift R   = restauración
-  
-• Publico: pdf de caracter publico
-
-• Mapa: pdf, web-map (conexion Internet)
-layers, medición, open street maps ;cuadricula a 500m.
-   Mouse rueda +/- = zoom.
-   Mouse click der.= paneo
-   Mouse click izq.= Guardar copiar imagen
-• Plano:
-• Video: webm (navegador actualizado;chrome, safari, firefox)
-• Agenda:texto editable con notepad, ver en carpeta.
-• Ayuda:texto editable con notepad, ver en carpeta.
-
-
-• Descomprimir carpeta zip...
-	carpeta threjs con archivos java 3D, mural.htm (menú gráfico web)
-	logos,etc.
-
-  Fecha: 10/03/2017
+   Tecla R     = auto rotaciÃ³n
+   Tecla Shift R   = restauraciÃ³n
