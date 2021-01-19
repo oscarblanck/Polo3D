@@ -1,0 +1,31 @@
+<html>
+  <!-- codigo por Oscar Blanck E. -->
+  <head>
+    <meta  content="text/html; charset=windows-1252"  http-equiv="content-type">
+    <title>Menu O.Blanck 2017</title>
+    <style>
+    ul {list-style-type:none;margin:0;padding:0;overflow:hidden;background-color:black;font-family:arial,san-serif;}
+li {float:left;}
+li a {display:block;color:white;text-align:center;padding:8px;text-decoration:none;}
+li a:hover{background-color:orange;}
+</style> </head>
+  <body  style=" margin:0;padding:0">
+    <ul>
+      <img  src="web/logo.png"  alt="Municipalidad de Guatemala"  style="float:left;width:30px;height:38px;">
+      <li><a  class="active"  href="javascript:javascript:location.reload();">Slide</a></li>
+      <li><a  href="javascript:javascript:history.go(-1)">&lt;</a></li>
+      <li><a  href="javascript:javascript:history.go(+1)">&gt;</a></li>
+      <li><a  href="01 2101 Polos Edif.html"  target="visor">Menu Graf.</a></li>
+      <li><a  href="pends.txt"  target="visor">Publico</a></li>
+      <li><a  href="pends.txt"  target="visor">Mapa</a></li>
+      <li><a  href="pends.txt"  target="visor">Plano</a></li>
+      <li><a  href="pends.txt"  target="visor">Video</a></li>
+      <li><a  href="agenda.txt"  target="refs">Agenda</a></li>
+      <li><a  href="ayuda.txt"  target="refs">Ayuda</a></li>
+      <li><a  href="."  target="refs">Carpeta</a></li>
+    </ul>
+<details>Oscar Blanck 2017</details>
+    <iframe  src="01 2101 Polos Edif.html"  name="visor"  height="95%"  width="70%"></iframe>
+    <iframe  src="agenda.txt"  name="refs"  height="95%"  width="28%"></iframe>
+  </body>
+</html>
