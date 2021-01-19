@@ -1,24 +1,15 @@
-.LOG CEUM/3 Rios:
-
-ï Agenda: ..., Solicitud de Nicolas Vega
+--Agenda: Edificabilidad POT, no observa otros par√°metros
 - Objetivo: Maqueta virtual 3D
-- Estrategia: Mostrar elementos
-Centro Admin.: Clases aire libre, RecolecciÛn agua, Vivero, Farmacia, 
-Cuenca: 	Ciudad, Pozo, volcanes,
-
-- Seguimiento: ...
- 
-Recurso:
-ï Slides: Modelo 3D
-ï Documento: 
-ï Mapa: 
-ï Plano: 
-ï Video: 
-ï 3D: Sketchup
-
-- Apoyo:
-- DPU/Coord : Emilio Vargas, Nicolas Vega
-- DPU/Gis-3D: O. Blanck 
-- Fechas:
-12:38 15/07/2019 Visita de campo:
-
+- Estrategia: Mostrar Potencial
+- Seguimiento: Par√°metros Hist√≥ricos, DGAC
+--Recurso:
+- Polos: Modelo 3D
+- Documento: 
+- Mapa: 
+- Plano: 
+- Video: 
+- 3D: Sketchup
+--Gesti√≥n:
+- DPU/Coord : Jorge Gonzales
+- DPU/Gis3D: O. Blanck 
+- Fechas: enero 2021
