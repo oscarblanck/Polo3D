@@ -1,11 +1,11 @@
 
---Navegador WEB: sistema de presentación (navegador actualizado;chrome, safari, firefox)
+--Navegador WEB: presentación (navegador actualizado;chrome, safari, firefox)
    Tecla F5 = Reiniciar
-   Tecla F11= modo kiosco (amplia ventana.
+   Tecla F11= modo kiosco (amplia ventana).
    Tecla <- = (delete) regresa a vista anterior
 
---Menu 3D: varios modelos 3D (navegador actualizado;chrome, safari, firefox)
-layers, custom plane, requieren WEBGL , Elevación digital del modelo 1:1
+--Menu 3D: varios modelos 3D (6 Polos)
+layers, custom plane, Elevación digital del modelo 1:1
 *fuente datos de elevación: "ASTER GDEM is a product of METI and NASA."
    Mouse rueda +/- = zoom.
    Mouse click     = identificación de datos
@@ -14,3 +14,6 @@ layers, custom plane, requieren WEBGL , Elevación digital del modelo 1:1
    Tecla ALT S     = guardar imagen
    Tecla R     = auto rotación
    Tecla Shift R   = restauración
+--Reserva de Datos: Publicado para fines de Visualización
+  No incluye otros párametros; Centro Histórico, DGAC.
+  Estrictamente Edificabilidad POT. Guatemala 2021
