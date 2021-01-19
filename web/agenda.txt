@@ -1,15 +1,15 @@
 --Agenda: Edificabilidad POT, no observa otros parámetros
-- Objetivo: Maqueta virtual 3D
-- Estrategia: Mostrar Potencial
-- Seguimiento: Parámetros Históricos, DGAC
+  Objetivo: Maqueta virtual 3D
+  Estrategia: Mostrar Potencial
+  Seguimiento: Parámetros Históricos, DGAC
 --Recurso:
-- Polos: Modelo 3D
-- Documento: 
-- Mapa: 
-- Plano: 
-- Video: 
-- 3D: Sketchup
+  Polos: Modelo 3D
+  Documento: 
+  Mapa: 
+  Plano: 
+  Video: 
+  3D: Sketchup
 --Gestión:
-- DPU/Coord : Jorge Gonzales
-- DPU/Gis3D: O. Blanck 
-- Fechas: enero 2021
+  DPU/Coord : Jorge Gonzales
+  DPU/Gis3D: O. Blanck 
+  Fechas: enero 2021
